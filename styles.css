@@ -223,7 +223,7 @@ Hero
 @media screen and (min-width: 768px) {
   .hero {
     background: linear-gradient(rgba(220, 175, 176, 0.7), rgba(0, 0, 0, 0.7)),
-      url("./images/cats_main.jpg") center/cover no-repeat fixed;
+      url("./images/cat-618470.jpg") center/cover no-repeat fixed;
   }
   .banner h2 {
     font-size: 3rem;
